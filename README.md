@@ -70,5 +70,4 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-Ansh Gupta  
-Frontend Developer (BCA Student)
+Ansh Gupta 
