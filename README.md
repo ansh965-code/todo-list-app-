@@ -1,3 +1,7 @@
+## 📸 Project Preview
+
+![ToDo Screenshot](screenshot.png)
+
 # 📝 To-Do List Web App
 
 A simple and dynamic To-Do List application built using HTML, CSS, and JavaScript.  
